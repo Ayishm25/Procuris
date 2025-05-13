@@ -1,2 +1,2 @@
-# Procuris
-Vendor and Buyer Connection Platform
+#Public repo
+
